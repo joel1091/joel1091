@@ -9,7 +9,7 @@
 - Artificial intelligence is something I'm interested in.
 - DataScience is an area I'm focusing on right now. <br> <br><br>
 [![](https://visitcount.itsvg.in/api?id=joel1091&icon=0&color=2)](https://visitcount.itsvg.in)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joelsf_pdg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-segui-far-68232a298/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joelsf_pdg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-segui-far) 
 
 <div align="center">
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
